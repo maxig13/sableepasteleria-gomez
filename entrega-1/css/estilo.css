@@ -15,7 +15,7 @@ Revisar el ultimo cuarto de la clase de Grids V2 para ir corrigiendo el responsi
     top: 0;
     height: 175px;
     width: 100%;
-    background-color: #f6f2ee;
+    background-image: linear-gradient(to right, #f6f2ee, #ebb273);
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
