@@ -82,6 +82,7 @@ li, a {
     background-repeat: no-repeat;
     background-size: cover;
     grid-area: seccionUno;
+    text-align: center;
     
     
 }
@@ -89,9 +90,12 @@ li, a {
     padding: 2rem 2rem 2rem 2rem;
     width: 450px;
     height:  auto;
+}
+
+.parrafoUno {
+    padding: 2rem 1rem 2rem 1rem;
     
 
-    
 }
 
 .seccionDos {
@@ -651,9 +655,7 @@ textarea:valid~label {
     
 
 
-    .seccionUno img {
-        display: none;
-    }
+   
 
     .seccionDos img {
         display: none;
@@ -716,11 +718,6 @@ textarea:valid~label {
         display: none  ;
     }
 
-    .seccionUno {
-        display: flex;
-        flex-direction: column;
-        background-color: yellow;
-    }
     
 }
 
